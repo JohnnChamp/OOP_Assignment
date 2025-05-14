@@ -1,4 +1,4 @@
-from smartphone import Smartphone, GamingPhone
+from Class_design.smartphone import Smartphone, GamingPhone
 
 # Create some objects
 iphone = Smartphone("Apple", "iPhone 13", 85, 999)
